@@ -24,15 +24,15 @@ slack_url:
 twitter_url: https://twitter.com/abhi_cognite
 
 # Build settings
-markdown: abhi_cognite
+markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: abhi_cognite
+  username: andrewbanchich
 # Add one or more of the following
 facebook:
   app_id: 
   publisher: 
   admins: 
 logo:
-google_site_verification:
+google_site_verification: 
