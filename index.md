@@ -25,7 +25,7 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<h1>Elixir Automation</h1>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
-		an initiative by Elixir Automation <a href="https://github.com/Abhilash04"></a>.</p>
+		An initiative by Elixir Automation <a href="https://github.com/Abhilash04"></a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
