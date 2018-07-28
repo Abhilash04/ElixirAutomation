@@ -6,23 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hyperspace
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Hyperspace theme by HTML5 UP.
-baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+title: Elixir Automation
+email: abhilash04sharma@gmail.com
+description: Test Automation blogs designed by Elixir Automation.
+baseurl: "/ElixirAutomation" # the subpath of your site, e.g. /blog
+url: "https://elixirautomation.gitlab.io" # the base hostname & protocol for your site
 
 # Social settings
 500px_url: 
-facebook_url: https://facebook.com
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.facebook.com/abhilash.sharma.5496
+gitlab_url: https://github.com/Abhilash04
+googleplus_url: https://plus.google.com/+AbhilashSharmaIR
+instagram_url: https://www.instagram.com/abhi_sharma4/?hl=en
+linkedin_url: https://www.linkedin.com/in/abhilash-sharma-b8444b51/
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/abhi_cognite
 
 # Build settings
 markdown: kramdown
@@ -36,4 +35,4 @@ facebook:
   publisher: 
   admins: 
 logo:
-google_site_verification:
+google_site_verification: 
