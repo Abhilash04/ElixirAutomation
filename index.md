@@ -1,3 +1,7 @@
+---
+layout: default
+title: Hyperspace by HTML5 UP
+---
 
 <!-- Sidebar -->
 <section id="sidebar">
