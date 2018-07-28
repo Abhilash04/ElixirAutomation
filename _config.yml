@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Elixir Automation
+title: ElixirAutomation
 email: abhilash04sharma@gmail.com
 description: The Jekyll version of the Hyperspace theme by HTML5 UP.
-baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/ElixirAutomation" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 
 # Social settings
