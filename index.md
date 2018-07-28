@@ -23,9 +23,9 @@ title: Hyperspace by HTML5 UP
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
-		<h1>Hyperspace</h1>
-		<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-		and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
+		<h1>Elixir Automation</h1>
+		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
+		an initiative by Elixir Automation <a href="https://github.com/Abhilash04"></a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
