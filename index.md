@@ -21,7 +21,7 @@ title: Elixir Automation
 
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
-	<a href="https://github.com/Abhilash04" class="image"><img src="images/ElixirAutomation.jpg" alt="Elixir Automation Logo" data-position="center center" width="125" height="125"/></a>
+	<a href="https://github.com/Abhilash04" class="image"><img src="logo.png" alt="Elixir Automation Logo" data-position="center center" width="125" height="125"/></a>
 	<div class="inner">
 		<h1>Elixir Automation</h1>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
