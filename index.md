@@ -39,7 +39,7 @@ title: Elixir Automation
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
-				<h3>Selenium Java Hybrid Framework</h3>
+				<h3><a href="https://github.com/Abhilash04/SeleniumJavaHybridFramework">Selenium Java Hybrid Framework</a></h3>
 				<p>Selenium Hybrid Framework Development with Java
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
@@ -48,8 +48,8 @@ title: Elixir Automation
 				<li>Log4j with html and text logs</li></p>
 			</section>
 			<section>
-				<span class="icon major fa-lock"></span>
-				<h3>Selenium Python Hybrid Framework</h3>
+				<span class="icon major fa-code"></span>
+				<h3><a href="https://github.com/Abhilash04/SeleniumPythonHybridFramework">Selenium Python Hybrid Framework</a></h3>
 				<p>Selenium Hybrid Framework Development Using Python
 				<li>Page Object Model</li>
 				<li>Allure Reporting</li>
@@ -59,23 +59,23 @@ title: Elixir Automation
 				</p>
 			</section>
 			<section>
-				<span class="icon major fa-cog"></span>
-				<h3>Selenium Cucumber BDD Framework</h3>
+				<span class="icon major fa-code"></span>
+				<h3><a href="https://github.com/Abhilash04/SeleniumCucumber">Selenium Cucumber BDD Framework</a></h3>
 				<p>Selenium Framework Development Using Cucumber.</p>
 			</section>
 			<section>
-				<span class="icon major fa-desktop"></span>
-				<h3>Appium Cucumber BDD Framework</h3>
+				<span class="icon major fa-code"></span>
+				<h3><a href="https://github.com/Abhilash04/AppiumCucumber">Appium Cucumber BDD Framework</a></h3>
 				<p>Appium Framework Development Using Cucumber.</p>
 			</section>
 			<section>
-				<span class="icon major fa-chain"></span>
-				<h3>RestAssured API Automation</h3>
+				<span class="icon major fa-code"></span>
+				<h3><a href="https://github.com/Abhilash04/RestAssuredAPIAutomation">RestAssured API Automation</a></h3>
 				<p>RestAssured Framework Development Using TestNG.</p>
 			</section>
 			<section>
-				<span class="icon major fa-diamond"></span>
-				<h3>SoapUI Maven Integration</h3>
+				<span class="icon major fa-code"></span>
+				<h3><a href="https://github.com/Abhilash04/SoapUIMavenIntegration">SoapUI Maven Integration</a></h3>
 				<p>SoapUI remote test execution using jenkins and maven.</p>
 			</section>
 		</div>
