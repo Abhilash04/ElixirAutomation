@@ -21,6 +21,7 @@ title: Elixir Automation
 
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
+	<a href="https://github.com/Abhilash04" class="image"><img src="images/ElixirAutomation.jpg" alt="Elixir Automation Logo" data-position="center center" width="125" height="125"/></a>
 	<div class="inner">
 		<h1>Elixir Automation</h1>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
@@ -35,7 +36,7 @@ title: Elixir Automation
 <section id="two" class="wrapper style3 fade-up">
 	<div class="inner">
 		<h2>Test Automation Frameworks</h2>
-		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.</p>
+		<p>Please find all test automation framework links, if you need further assistance or have any questions related to the code/ initial setup, please do not hesitate to contact, using the contact information on the <a href="#three">contact</a> page of this site.</p>
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
@@ -80,7 +81,7 @@ title: Elixir Automation
 			</section>
 		</div>
 		<ul class="actions">
-			<li><a href="" class="button">Learn more</a></li>
+			<li><a href="https://github.com/Abhilash04" class="button">Learn more</a></li>
 		</ul>
 	</div>
 </section>
@@ -89,7 +90,7 @@ title: Elixir Automation
 <section id="three" class="wrapper style1 fade-up">
 	<div class="inner">
 		<h2>Get in touch</h2>
-		<p>Please feel free to contact me for any query you have on test automation.</p>
+		<p>If you need further assistance or have any questions related to the code/ initial setup, please do not hesitate to contact.</p>
 		<div class="features">
 			<section>
 				<ul class="contact">
