@@ -10,7 +10,6 @@ title: Elixir Automation
 email: abhilash04sharma@gmail.com
 description: Test Automation Framework Development.
 baseurl: "/ElixirAutomation" # the subpath of your site, e.g. /blog
-url: "https://abhilash04.gitlab.io" # the base hostname & protocol for your site
 
 # Social settings
 500px_url: 
@@ -25,11 +24,11 @@ slack_url:
 twitter_url: https://twitter.com/abhi_cognite
 
 # Build settings
-markdown: abhilash04
+markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: abhi_cognite
+  username: andrewbanchich
 # Add one or more of the following
 facebook:
   app_id: 
