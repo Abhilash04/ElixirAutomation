@@ -9,7 +9,6 @@ title: Hyperspace by HTML5 UP
 		<nav>
 			<ul>
 				<li><a href="#intro">Welcome</a></li>
-				<li><a href="#one">Recent Posts</a></li>
 				<li><a href="#two">Test Automation Frameworks</a></li>
 				<li><a href="#three">Get in touch</a></li>
 			</ul>
@@ -32,81 +31,52 @@ title: Hyperspace by HTML5 UP
 	</div>
 </section>
 
-<!-- One -->
-<section id="one" class="wrapper style2 spotlights">
-	<section>
-		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
-		<div class="content">
-			<div class="inner">
-				<h2>Sed ipsum dolor</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
-		<div class="content">
-			<div class="inner">
-				<h2>Feugiat consequat</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
-		<div class="content">
-			<div class="inner">
-				<h2>Ultricies aliquam</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
 <!-- Two -->
 <section id="two" class="wrapper style3 fade-up">
 	<div class="inner">
-		<h2>What we do</h2>
-		<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+		<h2>Test Automation Frameworks</h2>
+		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.</p>
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
-				<h3>Lorem ipsum amet</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Selenium Java Hybrid Framework</h3>
+				<p>Selenium Hybrid Framework Development with Java:
+				<li>Page Object Model</li>
+				<li>Extent Reporting</li>
+				<li>Data Driven (Apache POI) with run mode functionality</li>
+				<li>Maven Project (No external jar files needs to be added)</li>
+				<li>Log4j with html and text logs</li></p>
 			</section>
 			<section>
 				<span class="icon major fa-lock"></span>
-				<h3>Aliquam sed nullam</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Selenium Python Hybrid Framework</h3>
+				<p>Selenium Hybrid Framework Development Using Python:
+				<li>Page Object Model</li>
+				<li>Allure Reporting</li>
+				<li>Data Driven (Pyexcel)</li>
+				<li>Pytest, Unittest Frameworks</li>
+				<li>Logging</li>
+				</p>
 			</section>
 			<section>
 				<span class="icon major fa-cog"></span>
-				<h3>Sed erat ullam corper</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Selenium Cucumber BDD Framework</h3>
+				<p>Selenium Framework Development Using Cucumber.</p>
 			</section>
 			<section>
 				<span class="icon major fa-desktop"></span>
-				<h3>Veroeros quis lorem</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Appium Cucumber BDD Framework</h3>
+				<p>Appium Framework Development Using Cucumber.</p>
 			</section>
 			<section>
 				<span class="icon major fa-chain"></span>
-				<h3>Urna quis bibendum</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>RestAssured API Automation</h3>
+				<p>RestAssured Framework Development Using TestNG.</p>
 			</section>
 			<section>
 				<span class="icon major fa-diamond"></span>
-				<h3>Aliquam urna dapibus</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>SoapUI Maven Integration</h3>
+				<p>SoapUI remote test execution using jenkins and maven.</p>
 			</section>
 		</div>
 		<ul class="actions">
