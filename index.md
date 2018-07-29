@@ -40,17 +40,17 @@ title: Elixir Automation
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3>Selenium Java Hybrid Framework</h3>
-				<p>Selenium Hybrid Framework Development with Java:
+				<p>Selenium Hybrid Framework Development with Java
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
-				<li>Data Driven (Apache POI) with run mode functionality</li>
-				<li>Maven Project (No external jar files needs to be added)</li>
+				<li>Data Driven (Apache POI)</li>
+				<li>Maven Project</li>
 				<li>Log4j with html and text logs</li></p>
 			</section>
 			<section>
 				<span class="icon major fa-lock"></span>
 				<h3>Selenium Python Hybrid Framework</h3>
-				<p>Selenium Hybrid Framework Development Using Python:
+				<p>Selenium Hybrid Framework Development Using Python
 				<li>Page Object Model</li>
 				<li>Allure Reporting</li>
 				<li>Data Driven (Pyexcel)</li>
@@ -80,7 +80,7 @@ title: Elixir Automation
 			</section>
 		</div>
 		<ul class="actions">
-			<li><a href="#" class="button">Learn more</a></li>
+			<li><a href="" class="button">Learn more</a></li>
 		</ul>
 	</div>
 </section>
