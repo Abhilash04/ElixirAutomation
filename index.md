@@ -23,9 +23,9 @@ title: Elixir Automation
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<a href="https://github.com/Abhilash04" class="image"><img src="images/logo.png" alt=""  width="125" height="125"/></a>
 	<div class="inner">
-		<h1>Elixir Automation</h1>
+		<h1>RAFT Automation Strategies</h1>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
-		An initiative by <a href="https://github.com/Abhilash04">Elixir Automation</a>.</p>
+		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Automation</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
