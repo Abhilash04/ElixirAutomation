@@ -24,7 +24,7 @@ title: Elixir Automation
 	<div class="inner">
 	<a href="https://github.com/Abhilash04" class="image"><img src="images/logo.png" alt="Elixir Automation Logo"  width="135" height="125"/></a>
 	<a href="https://www.browserstack.com/" class="image">
-	<img src="images/Browserstack-logo.svg" style='position:absolute; top:20px; right:20px;' alt="Browser Stack Logo"  width="188" height="43"/></a>
+	<img src="images/Browserstack-logo.svg" style='position:relative;bottom: 40px;left: 510px;' alt="Browser Stack Logo"  width="188" height="43"/></a>
 	</div>
 	<div class="inner">
 		<h1>RAFT Automation Strategies</h1>
