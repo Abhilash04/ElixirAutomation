@@ -44,7 +44,10 @@ title: Elixir Automation
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
-				<h3><a href="https://github.com/Abhilash04/SeleniumJavaHybridFramework">Selenium Java Hybrid Framework</a></h3>
+				<h3>
+				<a href="https://github.com/Abhilash04/SeleniumJavaHybridFramework">Selenium Java Hybrid Framework</a>
+				<a href="https://www.browserstack.com/automate/public-build/SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23'/></a>
+				</h3>
 				<p>Selenium Hybrid Framework Development with Java
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
@@ -54,7 +57,10 @@ title: Elixir Automation
 			</section>
 			<section>
 				<span class="icon major fa-code"></span>
-				<h3><a href="https://github.com/Abhilash04/SeleniumPythonHybridFramework">Selenium Python Hybrid Framework</a></h3>
+				<h3>
+				<a href="https://github.com/Abhilash04/SeleniumPythonHybridFramework">Selenium Python Hybrid Framework</a>
+				<a href="https://www.browserstack.com/automate/public-build/WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8'/></a>
+				</h3>
 				<p>Selenium Hybrid Framework Development Using Python
 				<li>Page Object Model</li>
 				<li>Allure Reporting</li>
