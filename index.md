@@ -57,6 +57,16 @@ title: Elixir Automation
 			</section>
 			<section>
 				<span class="icon major fa-code"></span>
+				<h3><a href="https://github.com/Abhilash04/AppiumJavaHybridFramework">Appium Java Hybrid Framework</a></h3>
+				<p>Appium Hybrid Framework Development with Java
+				<li>Page Object Model</li>
+				<li>Extent Reporting</li>
+				<li>Data Driven (Apache POI)</li>
+				<li>Maven Project</li>
+				<li>Log4j with html and text logs</li></p>
+			</section>
+			<section>
+				<span class="icon major fa-code"></span>
 				<h3>
 				<a href="https://github.com/Abhilash04/SeleniumPythonHybridFramework">Selenium Python Hybrid Framework</a>
 				<a href="https://www.browserstack.com/automate/public-build/WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8'/></a>
@@ -72,22 +82,29 @@ title: Elixir Automation
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/SeleniumCucumber">Selenium Cucumber BDD Framework</a></h3>
-				<p>Selenium Framework Development Using Cucumber.</p>
+				<p>Selenium Framework Development Using Cucumber
+				<li>Cucumber BDD Framework</li>
+				<li>Page Object Model</li>
+				<li>Extent Reporting</li>
+				<li>Data Driven (Apache POI)</li>
+				<li>Maven Project</li>
+				<li>Log4j with html and text logs</li></p>
 			</section>
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/AppiumCucumber">Appium Cucumber BDD Framework</a></h3>
-				<p>Appium Framework Development Using Cucumber.</p>
+				<p>Appium Framework Development Using Cucumber
+				<li>Cucumber BDD Framework</li>
+				<li>Page Object Model</li>
+				<li>Extent Reporting</li>
+				<li>Data Driven (Apache POI)</li>
+				<li>Maven Project</li>
+				<li>Log4j with html and text logs</li></p>
 			</section>
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/RestAssuredAPIAutomation">RestAssured API Automation</a></h3>
 				<p>RestAssured Framework Development Using TestNG.</p>
-			</section>
-			<section>
-				<span class="icon major fa-code"></span>
-				<h3><a href="https://github.com/Abhilash04/SoapUIMavenIntegration">SoapUI Maven Integration</a></h3>
-				<p>SoapUI remote test execution using jenkins and maven.</p>
 			</section>
 		</div>
 		<ul class="actions">
