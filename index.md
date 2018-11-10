@@ -145,6 +145,13 @@ title: Elixir Automation
 							<li><a href="https://www.linkedin.com/in/abhilash-sharma-b8444b51/" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						</ul>
 					</li>
+					<li>
+						<h3>Visitor Count</h3>
+						<span>
+						<img src='https://www.counter12.com/img-xa98DaZyA1Db3d1Z-3.gif' border='0' alt='counter'>
+						</span>
+						<script type='text/javascript' src='https://www.counter12.com/ad.js?id=xa98DaZyA1Db3d1Z'></script>
+					</li>
 				</ul>
 			</section>
 		</div>
