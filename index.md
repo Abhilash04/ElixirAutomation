@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Elixir Automation
+title: Elixir Technologies
 ---
 
 <!-- Sidebar -->
@@ -10,6 +10,7 @@ title: Elixir Automation
 			<ul>
 				<li><a href="#intro">Welcome</a></li>
 				<li><a href="#two">Test Automation Frameworks</a></li>
+				<li><a href="#four">Blockchain DApps</a></li>
 				<li><a href="#three">Get in touch</a></li>
 			</ul>
 		</nav>
@@ -48,7 +49,7 @@ title: Elixir Automation
 				<a href="https://github.com/Abhilash04/SeleniumJavaHybridFramework">Selenium Java Hybrid Framework</a>
 				<a href="https://www.browserstack.com/automate/public-build/SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23'/></a>
 				</h3>
-				<p>Selenium Hybrid Framework Development with Java
+				<p>Selenium Hybrid Framework Development with Java</p>
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
 				<li>Data Driven (Apache POI)</li>
@@ -58,7 +59,7 @@ title: Elixir Automation
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/AppiumJavaHybridFramework">Appium Java Hybrid Framework</a></h3>
-				<p>Appium Hybrid Framework Development with Java
+				<p>Appium Hybrid Framework Development with Java</p>
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
 				<li>Data Driven (Apache POI)</li>
@@ -71,7 +72,7 @@ title: Elixir Automation
 				<a href="https://github.com/Abhilash04/SeleniumPythonHybridFramework">Selenium Python Hybrid Framework</a>
 				<a href="https://www.browserstack.com/automate/public-build/WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8'/></a>
 				</h3>
-				<p>Selenium Hybrid Framework Development Using Python
+				<p>Selenium Hybrid Framework Development Using Python</p>
 				<li>Page Object Model</li>
 				<li>Allure Reporting</li>
 				<li>Data Driven (Pyexcel)</li>
@@ -82,7 +83,7 @@ title: Elixir Automation
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/SeleniumCucumber">Selenium Cucumber BDD Framework</a></h3>
-				<p>Selenium Framework Development Using Cucumber
+				<p>Selenium Framework Development Using Cucumber</p>
 				<li>Cucumber BDD Framework</li>
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
@@ -93,7 +94,7 @@ title: Elixir Automation
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/AppiumCucumber">Appium Cucumber BDD Framework</a></h3>
-				<p>Appium Framework Development Using Cucumber
+				<p>Appium Framework Development Using Cucumber</p>
 				<li>Cucumber BDD Framework</li>
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
@@ -155,5 +156,30 @@ title: Elixir Automation
 				</ul>
 			</section>
 		</div>
+	</div>
+</section>
+
+<!-- Four -->
+<section id="two" class="wrapper style3 fade-up">
+	<div class="inner">
+		<h2>Blockchain Decentralised Application</h2>
+		<p>Ethereum and Hyperledger based blockchain app development.</p>
+		<div class="features">
+			<section>
+				<span class="icon major fa-code"></span>
+				<h3>
+				<a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">Ethereum Decentralized Apps</a>
+				</h3>
+				<p>Ethereum based blockchain app development.</p>
+				<li>Ethereum</li>
+				<li>Metamask</li>
+				<li>Web3</li>
+				<li>Mocha</li>
+				<li>ReactJS</li></p>
+			</section>
+		</div>
+		<ul class="actions">
+			<li><a href="https://github.com/Abhilash04" class="button">Learn more</a></li>
+		</ul>
 	</div>
 </section>
