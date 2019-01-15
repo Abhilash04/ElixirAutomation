@@ -10,8 +10,8 @@ title: Elixir Technologies
 			<ul>
 				<li><a href="#intro">Welcome</a></li>
 				<li><a href="#two">Test Automation Frameworks</a></li>
-				<li><a href="#four">Blockchain DApps</a></li>
-				<li><a href="#three">Get in touch</a></li>
+				<li><a href="#three">Blockchain DApps</a></li>
+				<li><a href="#four">Get in touch</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -28,9 +28,9 @@ title: Elixir Technologies
 	<img src="images/Browserstack-logo.svg" style="margin-bottom: 40px;" alt="Browser Stack Logo" width="188" height="43"></a>
 	</div>
 	<div class="inner">
-		<h1>RAFT Automation Strategies</h1>
+		<h1>Elixir Technologies - Automation & Decentralised App Development Strategies</h1>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
-		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Automation</a>.</p>
+		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Technologies</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -47,7 +47,7 @@ title: Elixir Technologies
 				<span class="icon major fa-code"></span>
 				<h3>
 				<a href="https://github.com/Abhilash04/SeleniumJavaHybridFramework">Selenium Java Hybrid Framework</a>
-				<a href="https://www.browserstack.com/automate/public-build/SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23'/></a>
+				<!-- <a href="https://www.browserstack.com/automate/public-build/SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23'/></a> -->
 				</h3>
 				<p>Selenium Hybrid Framework Development with Java</p>
 				<li>Page Object Model</li>
@@ -59,7 +59,7 @@ title: Elixir Technologies
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/AppiumJavaHybridFramework">Appium Java Hybrid Framework</a></h3>
-				<p>Appium Hybrid Framework Development with Java</p>
+				<p>Appium Hybrid Framework Development with Java
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
 				<li>Data Driven (Apache POI)</li>
@@ -70,9 +70,9 @@ title: Elixir Technologies
 				<span class="icon major fa-code"></span>
 				<h3>
 				<a href="https://github.com/Abhilash04/SeleniumPythonHybridFramework">Selenium Python Hybrid Framework</a>
-				<a href="https://www.browserstack.com/automate/public-build/WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8'/></a>
+				<!-- <a href="https://www.browserstack.com/automate/public-build/WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=WElIeEtLWlV3c09hdFprZXJlbFl0ZXpJVk8xQk9PT0J0K0s4L1BCVytFVT0tLXNVMFNWOHA2TllQMjBKWFhrTWpSK1E9PQ==--06ddf268990a113d732ff257cd70cb8a6fafd7c8'/></a> -->
 				</h3>
-				<p>Selenium Hybrid Framework Development Using Python</p>
+				<p>Selenium Hybrid Framework Development Using Python
 				<li>Page Object Model</li>
 				<li>Allure Reporting</li>
 				<li>Data Driven (Pyexcel)</li>
@@ -83,7 +83,7 @@ title: Elixir Technologies
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/SeleniumCucumber">Selenium Cucumber BDD Framework</a></h3>
-				<p>Selenium Framework Development Using Cucumber</p>
+				<p>Selenium Framework Development Using Cucumber
 				<li>Cucumber BDD Framework</li>
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
@@ -94,7 +94,7 @@ title: Elixir Technologies
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3><a href="https://github.com/Abhilash04/AppiumCucumber">Appium Cucumber BDD Framework</a></h3>
-				<p>Appium Framework Development Using Cucumber</p>
+				<p>Appium Framework Development Using Cucumber
 				<li>Cucumber BDD Framework</li>
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
@@ -115,7 +115,32 @@ title: Elixir Technologies
 </section>
 
 <!-- Three -->
-<section id="three" class="wrapper style1 fade-up">
+<section id="three" class="wrapper style3 fade-up">
+	<div class="inner">
+		<h2>Blockchain Decentralised Application</h2>
+		<p>Please find Ethereum and Hyperledger based blockchain decentralised app repos(Demo).</p>
+		<div class="features">
+			<section>
+				<span class="icon major fa-code"></span>
+				<h3>
+				<a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">Ethereum Decentralized Apps</a>
+				</h3>
+				<p>Ethereum based blockchain app development.
+				<li>Ethereum</li>
+				<li>Metamask</li>
+				<li>Web3</li>
+				<li>Mocha</li>
+				<li>ReactJS</li></p>
+			</section>
+		</div>
+		<ul class="actions">
+			<li><a href="https://github.com/Abhilash04" class="button">Learn more</a></li>
+		</ul>
+	</div>
+</section>
+
+<!-- Four -->
+<section id="four" class="wrapper style1 fade-up">
 	<div class="inner">
 		<h2>Get in touch</h2>
 		<p>If you need further assistance or have any questions related to the code/ initial setup, please do not hesitate to contact.</p>
@@ -156,30 +181,5 @@ title: Elixir Technologies
 				</ul>
 			</section>
 		</div>
-	</div>
-</section>
-
-<!-- Four -->
-<section id="two" class="wrapper style3 fade-up">
-	<div class="inner">
-		<h2>Blockchain Decentralised Application</h2>
-		<p>Ethereum and Hyperledger based blockchain app development.</p>
-		<div class="features">
-			<section>
-				<span class="icon major fa-code"></span>
-				<h3>
-				<a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">Ethereum Decentralized Apps</a>
-				</h3>
-				<p>Ethereum based blockchain app development.</p>
-				<li>Ethereum</li>
-				<li>Metamask</li>
-				<li>Web3</li>
-				<li>Mocha</li>
-				<li>ReactJS</li></p>
-			</section>
-		</div>
-		<ul class="actions">
-			<li><a href="https://github.com/Abhilash04" class="button">Learn more</a></li>
-		</ul>
 	</div>
 </section>
