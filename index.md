@@ -28,9 +28,10 @@ title: Elixir Technologies
 	<img src="images/Browserstack-logo.svg" style="margin-bottom: 40px;" alt="Browser Stack Logo" width="188" height="43"></a>
 	</div>
 	<div class="inner">
-		<h1>Elixir Technologies - Automation & Decentralised App Development Strategies</h1>
+		<h1>Elixir Automation</h1>
+		<h2>Test Automation & Decentralised App Development Strategies</h2>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
-		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Technologies</a>.</p>
+		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Technologies</a>. Also started working on Ethereum and Hyperledger based decentralised applications, look for demo apps here <a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">DApps</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -117,7 +118,7 @@ title: Elixir Technologies
 <!-- Three -->
 <section id="three" class="wrapper style3 fade-up">
 	<div class="inner">
-		<h2>Blockchain Decentralised Application</h2>
+		<h2>Blockchain Decentralised Applications</h2>
 		<p>Please find Ethereum and Hyperledger based blockchain decentralised app repos(Demo).</p>
 		<div class="features">
 			<section>
