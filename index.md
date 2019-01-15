@@ -31,7 +31,7 @@ title: Elixir Technologies
 		<h1>Elixir Technologies</h1>
 		<h2>Test Automation & Decentralised App Development Strategies</h2>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
-		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Technologies</a>. Also started working on Ethereum and Hyperledger based decentralised applications, look for demo apps here <a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">DApps</a>.</p>
+		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Technologies</a>. Also started working on Ethereum and Hyperledger based decentralised applications, look for demo apps <a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">here</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -50,7 +50,7 @@ title: Elixir Technologies
 				<a href="https://github.com/Abhilash04/SeleniumJavaHybridFramework">Selenium Java Hybrid Framework</a>
 				<!-- <a href="https://www.browserstack.com/automate/public-build/SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23"><img src='https://www.browserstack.com/automate/badge.svg?badge_key=SldHVXJkeU9TWGRGSjhmeDJiWWkzbEZKL0ZVcDkwWkhNenJrVURKdW5BMD0tLWt0QU84L3FEejQyakNWRHBEdHZLYmc9PQ==--5f31a2970efec5adf963e507292aaf402f22eb23'/></a> -->
 				</h3>
-				<p>Selenium Hybrid Framework Development with Java</p>
+				<p>Selenium Hybrid Framework Development with Java
 				<li>Page Object Model</li>
 				<li>Extent Reporting</li>
 				<li>Data Driven (Apache POI)</li>
