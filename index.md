@@ -29,9 +29,9 @@ title: Elixir Technologies
 	</div>
 	<div class="inner">
 		<h1>Elixir Technologies</h1>
-		<h2>Test Automation & Decentralised App Development Strategies</h2>
+		<h2>Test Automation</h2>
 		<p>If you don’t like testing your product, most likely your customers won’t like to test it either.<br />
-		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Technologies</a>. Also started working on Ethereum and Hyperledger based decentralised applications, look for demo apps <a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">here</a>.</p>
+		RAFT (Reusable Automation Framework for Testing) is an initiative by <a href="https://github.com/Abhilash04">Elixir Technologies</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -124,7 +124,7 @@ title: Elixir Technologies
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3>
-				<a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">Ethereum Decentralized Apps</a>
+				<a href="https://github.com/Abhilash04/EthereumDecentralizedApps-DApps">Ethereum DApps</a>
 				</h3>
 				<p>Ethereum based blockchain app development.
 				<li>Ethereum</li>
@@ -150,8 +150,8 @@ title: Elixir Technologies
 				<ul class="contact">
 					<li>
 						<h3>Address</h3>
-						<span>Banjara Hills<br />
-						Hyderabad, Telangana 500034<br />
+						<span>MDC 4<br />
+						Panchkula, Haryana 134114<br />
 						INDIA</span>
 					</li>
 					<li>
